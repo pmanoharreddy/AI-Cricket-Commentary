@@ -1,0 +1,9 @@
+[
+  {
+    "video_id":    "cover_drive",
+    "frame_dir":   "frames/cover_drive/",
+    "start_frame": 1,
+    "end_frame":   8,
+    "caption":     "Kohli drives beautifully through the covers for FOUR!"
+  }
+]
